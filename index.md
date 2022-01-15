@@ -1,7 +1,7 @@
 # This is Junyi Wu's page
 
 ## **lab report index<br>**
-    lab 1 report
+[lab 1 report](https://pei-lu.github.io/cse15l-lab-reports/lab1Report.html)
 
 ## some random stuff
 <!-- hello world! <br>
