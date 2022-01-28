@@ -54,5 +54,12 @@ this is where you shold do all the procedure.
 
 ## Optimizing Remote Running 
 Using up/down arrow or typing in multiple command at same line would make them run at same time, so and get the result all together.
+
 ![image6 ](https://user-images.githubusercontent.com/55153144/149600614-8c3aea46-e67c-44fd-99bb-808c2af8d9f4.png)
 
+Also, setting up the key would saving a lot of time when I tried to log into the server, it used to be a over minute process where i need to type everthin in and enter my password without knowing what am I typing. with the help of prepired "cheetsheet" and the keys. I would be able to connect to server within 10 second.
+
+![cheetsheet](https://user-images.githubusercontent.com/55153144/151538708-a046589e-5da2-4795-9455-679badd46697.png)
+![QQ图片20220128032752](https://user-images.githubusercontent.com/55153144/151539299-a84ffbd7-126e-4ed7-a89e-f338c68cd9f5.png)
+
+and here are some references I used to writ this lab report , including <br />[CDN](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d)<br />[Microsoft Help center](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
