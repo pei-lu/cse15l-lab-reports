@@ -34,15 +34,16 @@ the return shoule be
 [`google.com, google.com , ucsd.edu]
 ```
 ## 2. the test run
-
-![0{1KI}HNTK(X){2L))FAV8](https://user-images.githubusercontent.com/55153144/157984836-4e5b5f5b-151f-4db8-8a9f-74b5df1ef6af.png)
-the above is my implementation of the test
+![Test1](https://user-images.githubusercontent.com/55153144/157967303-543bec63-c016-414b-9904-cbc74ca27477.png)
 
 ## 3. Test result for my implement
 </br>
 
-![GLG@_OK $F4FB{}RHKFG~XS](https://user-images.githubusercontent.com/55153144/157985300-fec3b429-97a2-4c96-b56b-83fb98fb716d.png)
-the test faild, because my markdownParse stop record the link at the first appearence of), instead of the last one, as it supposed to
+![result1](https://user-images.githubusercontent.com/55153144/157967985-b6480925-4d60-4225-a836-4fba48e36090.png)
+ 
+ the test fail because `[a link`](url.com) was not a link but is was recognized as one. because the appearence of both"[]" and "()"
+
+
 
 ## 4. Test and result form my reviewed 
 test of Alex's markdown parse
@@ -62,14 +63,15 @@ snippet2
 [a.com, a.com(()), example.com]
 ```
 ## 2. the test run
-![J$4NZ7WZOW()9(M$_$_F$HS](https://user-images.githubusercontent.com/55153144/157967303-543bec63-c016-414b-9904-cbc74ca27477.png)
+
+![0{1KI}HNTK(X){2L))FAV8](https://user-images.githubusercontent.com/55153144/157984836-4e5b5f5b-151f-4db8-8a9f-74b5df1ef6af.png)
+the above is my implementation of the test
 
 ## 3. Test result for my implement
 </br>
 
-![image](https://user-images.githubusercontent.com/55153144/157967985-b6480925-4d60-4225-a836-4fba48e36090.png)
- 
- the test fail because `[a link`](url.com) was not a link but is was recognized as one. because the appearence of both"[]" and "()"
+![GLG@_OK $F4FB{}RHKFG~XS](https://user-images.githubusercontent.com/55153144/157985300-fec3b429-97a2-4c96-b56b-83fb98fb716d.png)
+the test faild, because my markdownParse stop record the link at the first appearence of), instead of the last one, as it supposed to
 
 ## 4. Test and result form my reviewed 
 test of Alex's markdown parse
